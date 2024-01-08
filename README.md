@@ -1,5 +1,5 @@
 # S.C.O.R.P
-Text-To-Image GAN Model
+Text-To-Image GAN Model - Ai
 ___
 
 ### MNIST Dataset - Research Paper
