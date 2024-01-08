@@ -72,8 +72,8 @@ if __name__ == '__main__':
     discriminator = Discriminator(img_size)
 
     # Load the trained models
-    generator.load_state_dict(torch.load("mnist_generator_epoch_999.pt", map_location=torch.device('cpu')))
-    discriminator.load_state_dict(torch.load("mnist_discriminator_epoch_999.pt", map_location=torch.device('cpu')))
+    generator.load_state_dict(torch.load("generator.pt", map_location=torch.device('cpu')))
+    discriminator.load_state_dict(torch.load("discriminator.pt", map_location=torch.device('cpu')))
 
     # Specify the number for image generation (0-9)
     specified_number = 1
