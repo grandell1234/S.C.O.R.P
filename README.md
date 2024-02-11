@@ -1,5 +1,5 @@
 # S.C.O.R.P
-Text-To-Image GAN Model - AI
+Sentence Conditioned Object Rendering Program - Text-To-Image GAN Model - AI
 ___
 
 ### MNIST Dataset - Research Paper
